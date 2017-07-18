@@ -6,5 +6,5 @@
 [GitHub](https://github.com/idennydeng) /
 [Twitte](https://twitter.com/idennydeng)
 
-[About](#) |
-[Contact](mailto:i@idennydeng.com)
+[About](https://about.me/idennydeng) |
+[Contact](mailto:i@dennydeng.com)
