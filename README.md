@@ -2,7 +2,7 @@
 
 ##Code & Sport
 
-[Blog](http://dennydeng.com/notes) /
+[Blog](http://www.dennydeng.com/notes) /
 [GitHub](https://github.com/idennydeng) /
 [Twitte](https://twitter.com/idennydeng)
 
