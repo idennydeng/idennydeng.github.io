@@ -1,6 +1,6 @@
-#Hi, I'm Denny.
+# Hi, I'm Denny.
 
-##Code & Sport
+## Code & Sport
 
 [Blog](http://www.dennydeng.com/notes) /
 [GitHub](https://github.com/idennydeng) /
